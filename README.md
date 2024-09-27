@@ -1,9 +1,9 @@
-# Extract Metadata
+# ⛏️ Extract Metadata
 
 Ferramenta para extrair metadados de arquivos a partir de um escopo específico. O script faz a varredura do site para encontrar tipos de arquivos indexados na pággina que o usuário deseja e extrai todos os metadados desses arquivos encontrados.
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/5b271f6d-e988-4a52-bbf3-92736fa8dfb5)
 
 
 ---
@@ -12,7 +12,7 @@ Ferramenta para extrair metadados de arquivos a partir de um escopo específico.
 
 - Não é necessário nenhum requisito específico, somente uma máquina Linux.
 
-## ⛏️ Como usar
+## 🔬 Como usar
 
 1. Clone esse repositório usando a ferramenta do [git](https://git-scm.com/) ou baixe o repositório em ZIP clicando em `<> Code`
 
@@ -20,10 +20,10 @@ Ferramenta para extrair metadados de arquivos a partir de um escopo específico.
 git clone https://github.com/cristopherrissardi/Hostscan.git
 ```
 
-2. Entre na pasta do repositório clonado (Extract-Metadata-main)
+2. Entre na pasta do repositório clonado (Extract-Metadata-master)
 
 ```bash
-cd Extract-Metadata-main
+cd Extract-Metadata-master
 ```
 
 3. De permissão de execução ao script.

@@ -17,13 +17,13 @@ Ferramenta para extrair metadados de arquivos a partir de um escopo específico.
 1. Clone esse repositório usando a ferramenta do [git](https://git-scm.com/) ou baixe o repositório em ZIP clicando em `<> Code`
 
 ```bash
-git clone https://github.com/cristopherrissardi/Hostscan.git
+git clone https://github.com/christopherrissardi/Extract-Metadata.git
 ```
 
-2. Entre na pasta do repositório clonado (Extract-Metadata-master)
+2. Entre na pasta do repositório clonado (Extract-Metadata)
 
 ```bash
-cd Extract-Metadata-master
+cd Extract-Metadata
 ```
 
 3. De permissão de execução ao script.
